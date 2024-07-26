@@ -12,4 +12,5 @@ run **myddz-client** in dir <code>bin</code> to join a room.
 > 支持2人,3人模式(创建房间时进行选择)
 > support 2 or 3 player, whihch could be chosen when host a room.
 
-### 现支持Deno版本,切换deno-version分支即可 Deno version available, switch to the deno-version branch
+### 现支持Deno版本,切换deno-version分支即可 
+### Deno version available, switch to the deno-version branch
